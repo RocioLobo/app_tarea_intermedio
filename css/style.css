@@ -1,9 +1,9 @@
 :root{
-    --orange: #eb1a8291;
+    --orange: #ec4343a6;
     --lightOrange:#490806;
     --veryLightOrange: #f89e8b;
     --gray:#55557b;
-    --white:#3d0720;
+    --white:#3d1025;
 }
 *{
     margin: 0;
